@@ -1,0 +1,73 @@
+30-05-2016 15:13:58.924 [main] INFO  de.hsa.games.fatsquirrel.Launcher - Start Fx Output
+30-05-2016 15:13:59.944 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 108423 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:00.045 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 17060 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:00.146 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 19983 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:00.248 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 17842 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:00.355 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 34671 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:00.761 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 23104 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:01.169 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 21230 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:01.573 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 18051 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:01.976 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 17250 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:02.379 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 51749 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:02.783 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 28384 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:03.186 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 23941 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:03.589 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 26534 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:03.992 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 19801 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:04.394 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 22389 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:04.801 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 662911 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:05.205 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 26936 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:05.608 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 8393 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:06.010 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 20825 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:06.413 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 8132 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:06.815 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 6234 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:07.217 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 5166 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:07.620 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 14308 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:08.023 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 10083 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:08.424 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 7405 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:08.827 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 6688 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:09.229 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 12988 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:09.632 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 8035 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:10.034 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 6603 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:10.436 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 7276 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:10.838 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 8775 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:11.243 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 10729 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:11.645 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 8637 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:12.054 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 12278 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:12.459 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 9957 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
+30-05-2016 15:14:12.862 [Timer-0] INFO  de.hsa.games.fatsquirrel.Logger.LogProxy - It takes 18169 nanoseconds to invoke move in de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot$ControllerContextImplMaster
+
