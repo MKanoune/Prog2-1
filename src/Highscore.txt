@@ -1,0 +1,2 @@
+de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot	890	850	
+de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.MasterSquirrelPlayer	1000	1000	

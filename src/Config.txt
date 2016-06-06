@@ -1,0 +1,9 @@
+StartBot:
+BotCount#1
+de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrelBot
+Start:
+Size#40#25
+de.hsa.games.fatsquirrel.Core.Entity.Entities.BadBeast#0
+de.hsa.games.fatsquirrel.Core.Entity.Entities.GoodBeast#5
+de.hsa.games.fatsquirrel.Core.Entity.Entities.BadPlant#5
+de.hsa.games.fatsquirrel.Core.Entity.Entities.GoodPlant#5

@@ -15,7 +15,7 @@ public class MasterBotController implements BotController{
 
     @Override
     public void nextStep(ControllerContext view) {
-        view = (ControllerContext) LogProxy.newInstance(view);
+        view = (ControllerContext)LogProxy.newInstance(view);
         view.move(new XY(1,1));
     }
 }

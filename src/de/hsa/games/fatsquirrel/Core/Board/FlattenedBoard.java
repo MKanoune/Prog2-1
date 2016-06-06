@@ -5,8 +5,11 @@ import de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MiniSquirrelBo
 import de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.MasterSquirrel;
 import de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Squirrel;
 import de.hsa.games.fatsquirrel.Core.Entity.Entity;
+import de.hsa.games.fatsquirrel.Core.Entity.EntityContainer;
 import de.hsa.games.fatsquirrel.Core.Entity.EntityType;
 import de.hsa.games.fatsquirrel.Core.Movement.XY;
+
+import java.util.Collection;
 
 /**
  * The 2D Board and its Entities
@@ -15,6 +18,7 @@ public class FlattenedBoard implements EntityContext, BoardView {
     private static Entity[][] entities;
     private final Board board;
     private final XY size;
+    private Collection collection;
 
 
     /**
@@ -26,8 +30,9 @@ public class FlattenedBoard implements EntityContext, BoardView {
         this.board = board;
         size = board.getSize();
         entities = new Entity[size.getY()][size.getX()];
+        collection = board.getContainer().getCollection();
 
-        for(int i = 0; i < size.getX()*size.getY(); i++) {
+        for(int i = 0; i < collection.size(); i++) {
             if(board.getContainer().getEntity(i) == null) {
                 //Do Nothing
             }
@@ -53,7 +58,7 @@ public class FlattenedBoard implements EntityContext, BoardView {
 
     /**
      * Get a Entity at a specific Position
-     * @Warning If Position is Empty null is returned. So check isPositionEmpty before.
+     * If Position is Empty null is returned. So check isPositionEmpty before.
      * @param pos XY Object with the Coordinates
      * @return The Entity at the Position
      */

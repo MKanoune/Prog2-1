@@ -27,11 +27,8 @@ public class GameImpl extends Game {
     public GameImpl(State s, UI ui) {
         super(s);
         board = s.flattenedBoard().getBoard();
-        MS = new MasterSquirrelPlayer(board.getNextID(), board.getRandomPos());
-        MasterSquirrelBot MSB = new MasterSquirrelBot(board.getNextID(), board.getRandomPos());
-        board.getContainer().insert(MS);
-        board.getContainer().insert(MSB);
         this.ui = ui;
+        MS = board.getPlayer();
     }
 
 

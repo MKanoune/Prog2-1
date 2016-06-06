@@ -8,7 +8,7 @@ import de.hsa.games.fatsquirrel.Core.Movement.XY;
  * Start Energy is 1000
  * Is Controlled by the Player or the Bot
  * Tries to collect as much Energy as possible
- * Game over when Energy is <= 0
+ * Game over when Energy is equal or below 0
  */
 //TODO Game over wenn Energy kleiner gleich 0
 public class MasterSquirrelPlayer extends MasterSquirrel {

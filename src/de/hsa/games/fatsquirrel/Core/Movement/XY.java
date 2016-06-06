@@ -29,6 +29,7 @@ public class XY {
 
     /**
      *Update X and Y at the Same time, with an given XY Object
+     * @param XYUpdate The movement Vector as XY Object
      */
     public void moveDirection(XY XYUpdate) {
         xCord += XYUpdate.getX();
@@ -38,6 +39,8 @@ public class XY {
 
     /**
      * Returns the Vector to the Destination
+     * @param destination The destination as XY Object
+     * @return The Vector to the destination as XY Object
      */
     public XY getVector(XY destination) {
         int x, y;
@@ -51,6 +54,7 @@ public class XY {
 
     /**
      * Updates the Y Cord with the given Value
+     * @param y The y Value as Int
      */
     public void updateY(int y) {
         yCord += y;
@@ -59,6 +63,7 @@ public class XY {
 
     /**
      * Update the X Cord with the given Value
+     * @param x The x Value as Int
      */
     public void updateX(int x) {
         xCord += x;

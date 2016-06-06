@@ -1,0 +1,13 @@
+de.hsa.games.fatsquirrel
+de.hsa.games.fatsquirrel.BotImpl
+de.hsa.games.fatsquirrel.Core
+de.hsa.games.fatsquirrel.Core.Board
+de.hsa.games.fatsquirrel.Core.Bot
+de.hsa.games.fatsquirrel.Core.Display
+de.hsa.games.fatsquirrel.Core.Entity
+de.hsa.games.fatsquirrel.Core.Entity.Entities
+de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel
+de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot
+de.hsa.games.fatsquirrel.Core.Movement
+de.hsa.games.fatsquirrel.Input
+de.hsa.games.fatsquirrel.Logger
