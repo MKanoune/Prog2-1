@@ -4,10 +4,20 @@ import de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MasterSquirrel
 import de.hsa.games.fatsquirrel.Core.Entity.Entities.Squirrel.Bot.MiniSquirrelBot;
 
 /**
- * Created by max on 23.05.16 09:20.
+ * Crates new Bots
  */
 interface BotControllerFactoryInterface {
+    /**
+     * Create a MasterBotController to control the bot
+     * @param masterBot The MasterBot we want to create
+     * @return The BotController Object
+     */
     BotController createMasterBotController(MasterSquirrelBot masterBot);
 
+    /**
+     * Create a MiniBotController to control the Bot
+     * @param miniBot The MiniBot we want to controll
+     * @return The BotController Object
+     */
     BotController createMiniBotController(MiniSquirrelBot miniBot);
 }

@@ -1,8 +1,13 @@
 package de.hsa.games.fatsquirrel.Core.Bot;
 
 /**
- * Created by max on 23.05.16 09:22.
+ * Controls the Bot over the NextStep Method
  */
 public interface BotController {
+
+    /**
+     * start the NextStep of the Bot
+     * @param view The View of the Board
+     */
     void nextStep(ControllerContext view);
 }
